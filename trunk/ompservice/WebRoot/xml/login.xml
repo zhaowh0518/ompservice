@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<login>
-	<userinfo>
-		<userid>1</userid>
-	</userinfo>
-	<featurelist>
-		<item id="1" name="Content Push" cmd="Push" type="0" arg="1" img=""/>
-	</featurelist>
-</login>
